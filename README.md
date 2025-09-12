@@ -2,4 +2,4 @@
 
 * Esse repositorio será utilizado para guarda os desafios de codigo do Bootcamp.
 * Cada arquivo está nomeado com o nome do desafio.
-* Casose interesse fique a vontade para abrir um issue se ver algo que possa ser melhorado.
+* Caso tenha interesse, fique a vontade para abrir um issue sugerindo melhorias.
