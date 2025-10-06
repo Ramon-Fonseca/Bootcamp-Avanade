@@ -71,7 +71,7 @@ Abaixo estão listados os que já foram concluídos ou estão em andamento:
 **Ramon Costa**  
 📍 Brasil  
 💼 Estudante de Desenvolvimento .NET | Bootcamp Avanade  
-🔗 [LinkedIn](https://www.linkedin.com/in/ramonfonseca/) • [GitHub](https://github.com/Ramon-Fonseca)
+🔗 [LinkedIn](https://www.linkedin.com/in/ramon-costa-/) • [GitHub](https://github.com/Ramon-Fonseca)
 
 ---
 
