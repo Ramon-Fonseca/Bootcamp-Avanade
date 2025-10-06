@@ -40,7 +40,7 @@ Abaixo estão listados os que já foram concluídos ou estão em andamento:
 
 | Projeto | Tipo | Link |
 |:---------|:------|:------|
-| 🧮 Calculadora Console | Exercício de fundamentos C# | [Repositório](#) |
+| Conntribuindo no projeto Open Sorce da DIO | [https://github.com/Ramon-Fonseca/dio-lab-open-source.git](#) |
 | 📦 API de Produtos | Projeto de API REST .NET | [Repositório](#) |
 | 🗃️ CRUD com SQL Server | Integração C# + BD relacional | [Repositório](#) |
 | 📊 Dashboard NoSQL | Integração com MongoDB | [Repositório](#) |
