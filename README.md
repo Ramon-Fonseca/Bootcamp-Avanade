@@ -26,8 +26,8 @@ Cada módulo do bootcamp possui um diretório (ou link) próprio com projetos e 
 | Módulo | Descrição | Status | Link |
 |:-------|:-----------|:-------|:------|
 | 🧱 **Módulo 1 - Fundamentos de C#** | Sintaxe, tipos de dados, controle de fluxo, coleções. | ✅ Concluído | [ ](#) |
-| 🧭 **Módulo 2 - POO em C#** | Classes, herança, polimorfismo, encapsulamento. | 🚧 Em andamento | [https://github.com/Ramon-Fonseca/EXEMPLOEXPLORANDO.git](#) |
-| ⚙️ **Módulo 3 - APIs e .NET** | Criação de APIs REST, rotas, controllers e integração. | 🔜 Próximo | [Ver projeto](#) |
+| 🧭 **Módulo 2 - POO em C#** | Classes, herança, polimorfismo, encapsulamento. | ✅ Concluído | [https://github.com/Ramon-Fonseca/EXEMPLOEXPLORANDO.git - https://github.com/Ramon-Fonseca/EXEMPLOPOO](#) |
+| ⚙️ **Módulo 3 - APIs e .NET** | Criação de APIs REST, rotas, controllers e integração. | 🚧 Em andamento | [Ver projeto](#) |
 | 🗄️ **Módulo 4 - Banco de Dados (SQL & NoSQL)** | Modelagem, consultas, relacionamentos e integração com C#. | 🔜 Próximo | [Ver projeto](#) |
 | 🐳 **Módulo 5 - Docker e Deploy** | Introdução a containers e orquestração de aplicações. | 🔜 Próximo | [Ver projeto](#) |
 
